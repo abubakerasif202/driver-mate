@@ -1,0 +1,6 @@
+{
+  "name": "DriverMate Assistant",
+  "description": "A personal rideshare and delivery driver assistant that helps track income, evaluate trips dynamically with a manual calculator, and manage work rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
